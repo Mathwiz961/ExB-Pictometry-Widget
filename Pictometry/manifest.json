@@ -1,0 +1,20 @@
+{
+  "name": "Pictometry",
+  "label": "Pictometry",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.14.0",
+  "dependencies": ["jimu-arcgis"],
+  "author": "Dr. Angie Schrick",
+  "description": "Pictometry widget",
+  "copyright": "ALS productions; 2023",
+  "license": "",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 300,
+    "height": 350
+  }
+}
