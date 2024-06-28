@@ -6,7 +6,7 @@ This widget was created in Visual Studio Code using Typescript and jimu-core.
 <br/><b>To change to your API open the widget.tsx file located in Pictometry\src\runtime and change this portion of the URL on line 22 (https://maps.co.palm-beach.fl.us/pol/polipa.aspx?POlocation=) to corrospond to your API url.</b>
 
 1.  Copy the entire Pictometry folder to Your ExB root folder\client\your_extensions\widgets.
-2.  Change the URL on line 22 in Pictometry\src\runtime to your Pictometry URL.
+2.  Change the URL on line 22 in Pictometry\src\runtime\widget.tsx to your Pictometry URL.
 3.  If the client is running, stop the client (control C) and restart (npm start) and the widget should be available to add to an experience builder project.
 4.  To use the widget, drag it to your ExB project, and in the settings choose a map widget to associate with the widget.
 
